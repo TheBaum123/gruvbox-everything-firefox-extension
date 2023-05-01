@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "gruvbox-everything",
+    "version": "1.0",
+    "description": "make a lot of websites appear in a gruvbox theme",
+    "content_scripts": [
+        {
+            "matches": ["*://devdocs.io/*"],
+            "js": ["js/devdocs.io.js"]
+        },
+        {
+            "matches": ["*://*.google.com/*"],
+            "css": ["css/google.com.css"]
+        }
+    ]
+}

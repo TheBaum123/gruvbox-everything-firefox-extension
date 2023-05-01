@@ -1,0 +1,17 @@
+body,
+body div {
+    background-color: #282828 !important;
+}
+
+a,
+span {
+    color: #fbf1c7 !important;
+}
+
+a[target="_top"]:nth-last-child(1).gb_h {
+    background-color: #83a598cc !important;
+}
+
+form[action="/search"]>div>div>div.RNNXgb {
+    border: 1px #1d2021 solid !important;
+}
