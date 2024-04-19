@@ -1,4 +1,4 @@
-body,
+/* body,
 body div {
     background-color: #282828 !important;
 }
@@ -13,5 +13,17 @@ a[target="_top"]:nth-last-child(1).gb_h {
 }
 
 form[action="/search"]>div>div>div.RNNXgb {
-    border: 1px #1d2021 solid !important;
+    border: none !important;
+    box-shadow: none !important;
 }
+
+
+.SDkEP {
+    box-shadow: 0 4px 6px 0 #fbf1c7;
+    border-radius: 10px 10px 0 0;
+}
+
+.aajZCb {
+    box-shadow: 0 4px 6px 0 #fbf1c7;
+}
+*/
